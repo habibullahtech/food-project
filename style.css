@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.green-color{
+    color:#ffa600;
+}
+div p{
+    text-align: justify;
+    color: #696969;
+}
+.order-button{
+    text-decoration: none;
+    background-image: linear-gradient(#ffa600, #ffc400);
+    color:white;
+    font-weight: 700px;
+    padding: 16px 28px;
+    border-radius: 40px;
+}
+img{
+    width: 90%;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+.half-width{
+    width:40%;
+    margin-left: 5%;
+    padding-left: 2%;
+}
